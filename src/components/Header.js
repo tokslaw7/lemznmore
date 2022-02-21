@@ -46,7 +46,7 @@ function Header (){
                         <div className="container">
                             <div className="row w-100 side-menu-inner-content">
                                 <div className="col-12 d-flex justify-content-center align-items-center text-center">
-                                    <a href="" className="navbar-brand"><img src="/vendor/images/lemznmore.png" alt="logo" /></a>
+                                    <a href="" className="navbar-brand"><img src="/vendor/images/lemnz.png" alt="logo" /></a>
                                 </div>
                                 <div className="col-12 col-lg-8 text-center text-lg-left">
                                     <nav className="side-nav w-100">
