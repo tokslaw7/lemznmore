@@ -78,7 +78,7 @@ function Menu (){
                         <div className="col-md-3 items brand">
                             <div className="item-img">
                                 <a href="/vendor/images/gallery-img-5.jpg" data-fancybox="images">
-                                    <img src="/vendor/images/gallery-img-5.jpg" alt="image" />
+                                    <img src="/vendor/images/chickensuya001.jpg" alt="image" />
                                         <div className="item-img-overlay valign">
                                             <div className="overlay-info text-center">
                                                 <span className="image-hover mb-3"><i className="lni-coffee-cup"></i></span>
