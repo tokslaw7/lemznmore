@@ -10,7 +10,7 @@ function Header (){
                             <div className="row">
                                 <div className="col-4 col-lg-2">
                                     <a className="navbar-brand link scroll" href="#home">
-                                        <img src="/vendor/images/logo.jpg" alt="logo" />
+                                        <img src="/vendor/images/lemznmore.png" alt="logo" />
                                     </a>
                                 </div>
                                 <div className="col-8 col-lg-10 simple-navbar d-flex align-items-center justify-content-end">
@@ -46,7 +46,7 @@ function Header (){
                         <div className="container">
                             <div className="row w-100 side-menu-inner-content">
                                 <div className="col-12 d-flex justify-content-center align-items-center text-center">
-                                    <a href="" className="navbar-brand"><img src="/vendor/images/logo.jpg" alt="logo" /></a>
+                                    <a href="" className="navbar-brand"><img src="/vendor/images/lemznmore.png" alt="logo" /></a>
                                 </div>
                                 <div className="col-12 col-lg-8 text-center text-lg-left">
                                     <nav className="side-nav w-100">
