@@ -1,5 +1,6 @@
 {
   "name": "lemzmore",
+  "homepage": "https://lemznmore.net",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
