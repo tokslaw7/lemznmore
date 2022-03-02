@@ -1,0 +1,13 @@
+version: '3'
+services:
+  taborg-www:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    restart: unless-stopped
+    ports:
+      - 7088:3000
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+volumes:
+  src:
