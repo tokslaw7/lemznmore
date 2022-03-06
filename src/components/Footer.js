@@ -17,7 +17,7 @@ function MyFooter (){
                                     <li><a className="social-icon wow fadeInUp" href="javascript:void(0)"><i className="fab fa-pinterest-p" aria-hidden="true"></i> </a> </li>
                                 </ul>
                             </div>
-                            <p className="company-about fadeIn text-white">© 2022 Lemznmore. Made By <a href="javascript:void(0);">Taborg LLC</a></p>
+                            <p className="company-about fadeIn text-white">© 2022 Lemzn'more. Made By <a href="javascript:void(0);">Taborg LLC</a></p>
                         </div>
                     </div>
                 </div>
