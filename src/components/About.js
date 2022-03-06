@@ -77,7 +77,7 @@ function About (){
                                 </div>
                                 <div className="col-12 col-lg-10 p-lg-0">
                                     <h4 className="mb-3">100% Free Delivery</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dignissim viverra ultrices.</p>
+                                    <p>You can trust us, consectetur adipiscing elit. Pellentesque dignissim viverra ultrices.</p>
                                 </div>
                             </div>
                         </div>
